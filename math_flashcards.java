@@ -3,7 +3,7 @@ package math_flashcards;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Group14_Project1 {
+public class Math_Flashcards {
 
     public static void main(String[] args) {
         
